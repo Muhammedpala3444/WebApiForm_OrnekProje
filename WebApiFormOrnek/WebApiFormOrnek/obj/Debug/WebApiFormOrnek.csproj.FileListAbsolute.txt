@@ -1,0 +1,17 @@
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\WebApiFormOrnek.exe.config
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\WebApiFormOrnek.exe
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\WebApiFormOrnek.pdb
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.Form1.resources
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.Properties.Resources.resources
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.csproj.GenerateResource.cache
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.csproj.CoreCompileInputs.cache
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.exe
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.pdb
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\Programming.DAL.dll
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\Programming.DAL.pdb
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\Programming.DAL.dll.config
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.csproj.CopyComplete
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\Newtonsoft.Json.dll
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\bin\Debug\Newtonsoft.Json.xml
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.Form2.resources
+D:\MuhammedCalismalar2\WebApiFormOrnek\WebApiFormOrnek\obj\Debug\WebApiFormOrnek.csprojAssemblyReference.cache
